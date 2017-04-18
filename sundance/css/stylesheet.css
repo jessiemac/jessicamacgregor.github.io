@@ -133,11 +133,11 @@ li a:hover, li a:active { text-decoration: none; color: rgb(76, 174, 163);}
 }
 
 .right1 {
-	font-family: 'Grad';
+	font-family: 'Apercu-Mono';
 	font-weight: 300;
 	font-size: .3em;
 	margin-left: 1.7%;
-	width: 25%;
+	width: 35%;
 	float: right;
 	font-size: .6em;
 	line-height: 1.2;
