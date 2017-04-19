@@ -224,6 +224,7 @@ li a:hover, li a:active { text-decoration: none; color: rgb(76, 174, 163);}
 }
 
 .image4 {
+					padding-top: 60px;
           margin-left: 1.7%;
           margin-top: .66%;
           float: left;
@@ -244,6 +245,7 @@ li a:hover, li a:active { text-decoration: none; color: rgb(76, 174, 163);}
 }
 
 .image5 {
+					padding-top: 60px;
           margin-left: .66%;
           margin-top: .66%;
           float: left;
