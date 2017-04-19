@@ -323,24 +323,35 @@ table {
 }
 
 .contact {
-        width: 8%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+        width: 25%;
         margin: 0 auto;
 				text-align: center;
 }
 
 .instagram {
-        margin: 100% 0 150%;
-        float:left;}
+
+				padding-left: 2%;
+        display: inline-block;
+				padding-right: 2%;}
 
 .email {
-        margin: 100% 0 150%;
-        float:right;}
+				padding-left: 2%;
+        display: inline-block;
+				padding-right: 2%;}
+
+				.resume {
+					padding-left: 2%;
+					display: inline-block;
+					padding-right: 2%;
+				}
 
 p      {
-			display: inline-block;
 
 
-        font-family: 'Apercu';
+				padding-bottom: 2%;
+        font-family: 'Circular Std Book';
         font-weight: 300;
         font-size: .5vw;
         text-align: center;}
